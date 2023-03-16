@@ -1,0 +1,11 @@
+body{
+    background: rgba(128, 128, 128, 0.37);
+}
+
+h1 {
+    text-shadow: 1px -4px 10px rgba(36,15,10,0.43);
+}
+.tab{
+    height: 100%;
+    
+}
